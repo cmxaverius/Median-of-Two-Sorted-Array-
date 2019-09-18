@@ -13,11 +13,16 @@ description:
 	3.You may assume nums1 and nums2 cannot be both empty.
 	
 example:
+	
 	nums1 = [1, 3]
+	
 	nums2 = [2]
+	
 	The median is 2.0
 
+
 //please use java to finish the question and do good testing
+	
 	class MedianOfTwoSortedArray {
    	 	public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         
